@@ -15,7 +15,7 @@ $ cd termux-adb-fastboot
 $ bash install.sh
 $ adb
 Android Debug Bridge version 1.0.39
-Version gkdev2019-11-30-b43c347b0f46-android
+Version gkdev-adb for termux android-arm64-v8a
 Installed as /data/data/com.termux/files/usr/bin/adb
 
 global options:
