@@ -7,7 +7,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/rendiix/termux-adb-fastboot.svg)](https://github.com/rendiix/termux-adb-fastboot/graphs/contributors/)
 
 # termux-adb-fastboot-tools
-## 
+## easy installation using apt. does not require root access
 #### Install:
 ``` console
 $ git clone https://github.com/rendiix/termux-adb-fastboot.git
