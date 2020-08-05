@@ -9,6 +9,8 @@
 # termux-adb-fastboot-tools
 Update: ADB version 1.0.41 fastboot version 9.0.0 and mke2fsdroid
 ## easy installation using apt. does not require root access
+## TO DO
+WIP update to platform-tools 30.0.3
 #### Install:
 ``` console
 $ git clone https://github.com/rendiix/termux-adb-fastboot.git
