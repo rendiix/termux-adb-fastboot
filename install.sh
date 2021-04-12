@@ -37,7 +37,7 @@ echo -e "\nrepo already installed\n"
 apt update
 fi
 if [ "$?" = 0 ]; then
-	apt-get --assume-yes install adb fastboot
+	apt-get --assume-yes install android-tools-adb android-tools-fastboot
 	echo -e "\nDone! android-tools-adb-fastboot succesfully installed"
 else
 	echo -e "\nSometing wrong, please re run this script"
