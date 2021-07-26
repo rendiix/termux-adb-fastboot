@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/rendiix/termux-adb-fastboot.svg)
-[![HitCount](http://hits.dwyl.io/rendiix/termux-adb-fastboot.svg)](http://github.com/rendiix/termux-adb-fastboot)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rendiix.rendiix)
 [![GitHub forks](https://img.shields.io/github/forks/rendiix/termux-adb-fastboot.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/rendiix/termux-adb-fastboot/network/)
 [![GitHub stars](https://img.shields.io/github/stars/rendiix/termux-adb-fastboot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rendiix/termux-adb-fastboot/stargazers/)
 ![GitHub watchers](https://img.shields.io/github/watchers/rendiix/termux-adb-fastboot.svg?style=social)
