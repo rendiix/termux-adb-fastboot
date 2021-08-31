@@ -7,17 +7,22 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/rendiix/termux-adb-fastboot.svg)](https://github.com/rendiix/termux-adb-fastboot/graphs/contributors/)
 
 # termux-adb-fastboot-tools
-Update: latest platform tools 31.0.0 ADB version 1.0.41 
+Update: latest platform tools r31.0.2
+NOTICE: adb and fastboot is now under platform-tools package
 ## easy installation using apt. does not require root access
 #### Install:
 ``` console
 $ git clone https://github.com/rendiix/termux-adb-fastboot.git
 $ cd termux-adb-fastboot
 $ bash install.sh
-$ adb --version
-Android Debug Bridge version 1.0.41
-Version platform-tools-31.0.0-gkdev
-Installed as /data/data/com.termux/files/usr/bin/adb
+```
+#### Oneliner installation:
+``` console
+$ curl -s https://raw.githubusercontent.com/rendiix/termux-adb-fastboot/master/install.sh | bash
+```
+#### If you are already subscribed to my PPA repo:
+``` console
+$ pkg install platform-tools
 ```
 #### Join Discord or follow me on Twitter:
 
