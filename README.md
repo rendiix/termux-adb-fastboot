@@ -13,17 +13,17 @@ NOTICE: adb and fastboot is now under platform-tools package
 ## easy installation using apt. does not require root access
 #### Install:
 ``` console
-$ git clone https://github.com/rendiix/termux-adb-fastboot.git
-$ cd termux-adb-fastboot
-$ bash install.sh
+git clone https://github.com/rendiix/termux-adb-fastboot.git
+cd termux-adb-fastboot
+bash install.sh
 ```
 #### Oneliner installation:
 ``` console
-$ curl -s https://raw.githubusercontent.com/rendiix/termux-adb-fastboot/master/install.sh | bash
+curl -s https://raw.githubusercontent.com/rendiix/termux-adb-fastboot/master/install.sh | bash
 ```
 #### If you are already subscribed to my PPA repo:
 ``` console
-$ pkg install platform-tools
+pkg install platform-tools
 ```
 #### Join Discord or follow me on Twitter:
 
