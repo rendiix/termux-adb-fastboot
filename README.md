@@ -6,8 +6,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/rendiix.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rendiix?tab=followers)
 [![GitHub contributors](https://img.shields.io/github/contributors/rendiix/termux-adb-fastboot.svg)](https://github.com/rendiix/termux-adb-fastboot/graphs/contributors/)
 
-# termux-adb-fastboot-tools
-Update: latest platform tools r31.0.3
+# termux-platform-tools
+Update: latest platform tools 33.0.1
 
 NOTICE: adb and fastboot is now under platform-tools package
 ## easy installation using apt. does not require root access
